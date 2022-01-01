@@ -49,6 +49,8 @@ export default {
     },
     // 组件生成完毕
     afterEnter() {},
+    createTimer() {},
+    clearTimer() {}
   },
   computed: {
     style() {
