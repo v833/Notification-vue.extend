@@ -11,9 +11,6 @@
         <span slot="label" style="color: red">tab2</span>
         <span>index2</span>
       </tab>
-      <tab label="tab3" index="3">
-        <span>index3</span>
-      </tab>
     </tabs>
   </div>
 </template>
